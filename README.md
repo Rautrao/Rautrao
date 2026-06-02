@@ -1,5 +1,5 @@
-# 💫 About Me:
-I am currently working on building image classifier using modern c++ 
+<h1 align="center">Hi 👋, I'm Rautrao Ambadas</h1>
+<h3 align="center">A passionate systems developer from India</h3>
 
 
 ## 🌐 Socials:
